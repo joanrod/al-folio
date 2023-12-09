@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://joanrod.github.io/joanrod/sitemap.xml
+Sitemap: https://joanrod.github.io/sitemap.xml
